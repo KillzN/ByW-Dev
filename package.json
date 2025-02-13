@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/KillzN/DevXD",
+  "homepage": "https://github.com/Belen/DevXD",
   "author": {
-    "name": "KillzN"
+    "name": "Belen"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KillzN/DevXD"
+    "url": "git+https://github.com/Belen/DevXD"
   },
   "bugs": {
-    "url": "https://github.com/KillzN/DevXD/issues"
+    "url": "https://github.com/Belen/DevXD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

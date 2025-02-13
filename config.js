@@ -10,10 +10,10 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['56983073328', 'KillzN', true],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['51993731827', 'Belen', true],
+  ['5198217717728', 'William'],
+  ['51993731827'],
+  ['51993731827']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -23,13 +23,13 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝗞𝗜𝗟𝗟 𝗕𝗢𝗧`
-global.author = '{\n "𝗕𝗢𝗧": {\n   "name": 𝗞𝗜𝗟𝗟 𝗕𝗢𝗧",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
+global.packname = `��� 𝗕&�`
+global.author = '{\n "𝗕𝗢𝗧": {\n   "name": ��� 𝗕&�",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
 global.wait = 'KILL  ᡣ𐭩'
-global.botname = '𝗞𝗜𝗟𝗟 𝗕𝗢𝗧  ᡣ𐭩'
-global.textbot = `@ineffable.mvrco`
+global.botname = '��� 𝗕&�  ᡣ𐭩'
+global.textbot = `@kim_belen.1`
 global.listo = 'Completado ✯'
-global.namechannel = '𝗞𝗜𝗟𝗟 𝗕𝗢𝗧'
+global.namechannel = '��� 𝗕&�'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -38,12 +38,12 @@ global.miniurl = fs.readFileSync('./storage/img/siskedurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC'
-global.canal = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC'
+global.group = 'www.instagram.com/kim_belen.1'
+global.canal = 'www.instagram.com/kim_belen.1'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "56983073328-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: botname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "51993731827-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: botname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
